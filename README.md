@@ -9,3 +9,4 @@ Linux
 CI/CD pipeline 
 Network concepts 
 out of that LINUX was very interesting to learn... 
+and in that intern plan I also planned to learn Python ..
