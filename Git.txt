@@ -1,0 +1,19 @@
+GIT / GIT HUB
+
+1. To Initialize the Local repository in Git 
+	`git init` 
+2. To configure Git Hub repository
+		`git config --global user.name "user_name" 
+		`git config --global user.email "user_email"`
+3. Git Clone 
+		`git clone <url>`
+4. To add files from working Laptop to **Index / Staging / Cache**
+		`git add <file name>`
+	- To add all the files in the particular folder/ location 
+		`git add .` 
+	- Staging area it is also known as "Holding area / Intermediate area before **Commit**"
+5. To see commit and their history we can use
+	`git log `
+	 
+
+
